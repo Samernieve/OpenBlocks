@@ -1,18 +1,17 @@
 achievement.openblocks.droppedBrick=Zoinks!
-achievement.openblocks.droppedBrick.desc=Sorry, it just happened...
-stat.openblocks.bricksDropped=Bricks dropped
-achievement.openblocks.stackOverflow=Stack Overflow
-achievement.openblocks.stackOverflow.desc=It's full of stars!
-
+achievement.openblocks.droppedBrick.desc=Lo siento, ocurrió simplemente.
+stat.openblocks.bricksDropped=Se han caído los ladrillos
+achievement.openblocks.stackOverflow=Desbordamientos de montones
+achievement.openblocks.stackOverflow.desc=¡Está lleno de estrellas!
 openblocks.keybind.category=OpenBlocks
-openblocks.keybind.drop_brick=Be silly
+openblocks.keybind.drop_brick=Sé idiota
 
-enchantment.openblocks.explosive=Unstable
-enchantment.openblocks.laststand=Last Stand
-enchantment.openblocks.flimflam=Flim Flam
+enchantment.openblocks.explosive=Inestable
+enchantment.openblocks.laststand=El Último Desafio
+enchantment.openblocks.flimflam=Estafa
 
-openblocks.gui.blocks=Blocks
-openblocks.gui.items=Items
+openblocks.gui.blocks=Bloques
+openblocks.gui.items=Objetos
 openblocks.gui.misc=Miscellanea
 openblocks.gui.changelogs=Changelogs
 
